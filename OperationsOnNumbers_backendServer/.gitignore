@@ -1,0 +1,12 @@
+classes/
+bin/
+target/**/
+target/*.original
+.clover/
+.apt_generated/
+.settings/
+.classpath
+.factorypath
+.project
+.runtime
+.tern-project
